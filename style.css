@@ -1,0 +1,22 @@
+#Tim_Bereners{
+    height: 300px;
+}
+body{
+    text-align: center;
+}
+.line{
+    background-color: black;
+    height: 3px;
+    width: 150px;
+        margin: auto;
+}
+#welcome{
+    background: linear-gradient(black,white);
+        height: 720px;
+    display: table;
+    width: 100%
+}
+#welcome_Inner{
+   display: table-cell;
+    vertical-align: middle;
+}
